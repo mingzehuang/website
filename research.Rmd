@@ -4,18 +4,25 @@ title: "Research"
 
 ## {.tabset}
 
-### Peer-review Publication
+### Peer-review Publications
 
-- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [submitted](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
-      
-### Working Paper
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [Under Review](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
+
+  - [arXiv:2108.09180](https://arxiv.org/abs/2108.09180)
+  
+### Working Papers
+
+- **Mingze Huang**. Shadow banking, information asymmetry and ring-fencing policy.
 
 ### Software
+
+- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
+  - [Github repository](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
   - [CRAN]
   - [Github repository](https://github.com/mingzehuang/latentcor) 
-  - [Documentation](https://mingzehuang.github.io/latentcor/)
+  - [Documentation Website](https://mingzehuang.github.io/latentcor/)
   - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
     
 - acpc: Data-driven Area Classification 

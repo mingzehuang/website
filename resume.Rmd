@@ -36,7 +36,7 @@ Language {#language}
 Skills {#computer}
 --------------------------------------------------------------------------------
 
-- Bash (Unix Shell), Linux (Ubuntu), SQL, NoSQL, R, Python, Julia, C, C++, Google Cloud, AWS
+- Bash (Unix Shell), Linux (Ubuntu), SQL, NoSQL, R, Python, Julia, C, C++, Intel DevCloud (Intel® Edge AI), AWS
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Mingze (Rico) Huang {#title}
 Interest {#Interest}
 --------------------------------------------------------------------------------
 
-Fintech, Algorithmic Trading, Computational Statistics, Machine Learning (Classic and Deep Learning), Parallel Computing (High Performance Computing), Artificial Intelligence (Automation Programming for Drone/Robot)
+Computational Statistics, Machine Learning (Classic and Deep Learning), Parallel Computing (High Performance Computing), Fintech, Algorithmic Trading, Artificial Intelligence (Automation Programming for Drone/Robot)
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -99,7 +99,21 @@ College Station, Texas
 
 2022
 
-Research {data-icon=laptop}
+Peer-review Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### latentcor: An R Package for estimating latent correlations from mixed data types
+
+**Mingze Huang**, Christian L. Müller, Irina Gaynanova
+
+College Station, Texas
+
+2021
+
+  - **Journal of Open Source Software** *(Under Review)*: <https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9>
+  - arXiv: <https://arxiv.org/abs/2108.09180>
+
+Software {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### acpc: An R Package with Shiny App for Area Classification based on Census Data
@@ -120,12 +134,12 @@ College Station, Texas
 
 2021
 
-  - Paper *Pending*
+  - CRAN: *pending*
   - GitHub Repository: <https://github.com/mingzehuang/latentcor>
-  - Documentation: <https://mingzehuang.github.io/latentcor/>
+  - Documentation Website: <https://mingzehuang.github.io/latentcor/>
   - Supplementary Material: <https://github.com/mingzehuang/latentcor_evaluation>
   
-### latentcor: A Python Package for Latent Correlation Estimation
+### latentcor: A Python Package for estimating latent correlations from mixed data types
 
 **Mingze Huang**, Christian L. Müller, Irina Gaynanova
 
@@ -133,38 +147,18 @@ College Station, Texas
 
 2021
 
-  - Paper *Pending*
   - GitHub Repository: <https://github.com/mingzehuang/latentcor_py>
-  - Documentation: *Pending*
-  - Supplementary Material: *Pending*
   
-### An R Package for Evaluating Estimation Methods
-
-**Mingze Huang**, Irina Gaynanova
-
-College Station, Texas
-
-2021
-
-  - Paper *Pending*
-  - GitHub Repository: *Pending*
-  - Documentation: *Pending*
-  - Supplementary Material: *Pending*
-  
-
-Publications and Working Papers {data-icon=file}
+Working Papers {data-icon=pen}
 --------------------------------------------------------------------------------
 
-### latentcor: An R Package for Latent Correlation Estimation
+### Shadow banking, information asymmetry and ring-fencing policy.
 
-Link to Published Version : *Pending*
+**Mingze Huang**
 
 College Station, Texas
 
-2021
-
-**Mingze Huang**, Christian L. Müller, Irina Gaynanova
-
+2019
 
 Fellowship/Awards {data-icon=medal}
 --------------------------------------------------------------------------------
@@ -179,7 +173,7 @@ Tianjin, China
 
 ### Texas A&M University
 
-PhD Teaching/Research Assistantship, Dissertation Fellowship
+PhD Teaching/Research Assistantship, Dissertation Fellowship, International Texas Public Education Grant
 
 College Station, Texas
 
