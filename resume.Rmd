@@ -127,7 +127,9 @@ College Station, Texas
 
 2020
 
+  - CRAN: *pending*
   - Github Repository: <https://github.com/mingzehuang/acpc>
+  - Documentation Website: *pending*
 
 ### latentcor: An R Package for estimating latent correlations from mixed data types
 

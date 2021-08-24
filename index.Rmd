@@ -1,5 +1,6 @@
 ---
 title: "Mingze (Rico) Huang"
+subtitle: "PhD in Economics, M.S. in Statistics (Texas A&M University at College Station)"
 output:
   html_document:
     runtime: shiny
