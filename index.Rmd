@@ -28,21 +28,16 @@ output:
 <div class="col2">
 
 - **Research Interest**
-  - *Fintech*
-  - *Algorithmic Trading*
   - *Computational Statistics*
   - *Machine Learning (Classic Learning and Deep Learning)*
   - *Parallel Computing (High Performance Computing System)*
+  - *Fintech*
+  - *Algorithmic Trading*
   - *Artificial Intelligence (Automation Programming for Drone/Robot)*
   
 ---
 
-- **Language**
-  - *English*
-  - *Chinese (Mandarin)*
-  - *Taiwanese*
-  
----
+
 
 - **Computer Skills**
   - *Bash (Unix Shell)*
@@ -53,8 +48,7 @@ output:
   - *Python*
   - *Julia*
   - *C*
-  - *C++*
-  - *Google Cloud*
+  - *Intel DevCloud (Intel® Edge AI)*
   - *AWS*
 
 </div>
@@ -63,19 +57,21 @@ output:
 
 ## {.tabset}
 
-### Peer-review Publication
+### Peer-review Publications
 
-- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [submitted](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [Under Review](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
 
-      
-### Working Paper
+  - [arXiv:2108.09180](https://arxiv.org/abs/2108.09180)
 
 ### Software
+
+- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
+  - [Github repository](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
   - [CRAN]
   - [Github repository](https://github.com/mingzehuang/latentcor) 
-  - [Documentation](https://mingzehuang.github.io/latentcor/)
+  - [Documentation Website](https://mingzehuang.github.io/latentcor/)
   - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
     
 - acpc: Data-driven Area Classification 
