@@ -1,0 +1,213 @@
+---
+title: "Mingze (Rico) Huang"
+author: Mingze Huang
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Mingze Huang](images/me.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> <mingzehuang@gmail.com>
+- <i class="fa fa-github"></i> <https://github.com/mingzehuang/latentcor>
+- <i class="fa fa-laptop"></i> <https://mingzehuang.github.io/>
+- <i class="fa fa-linkedin"></i> 
+- For more information, please contact me via email.
+
+
+Language {#language}
+--------------------------------------------------------------------------------
+
+- English, Taiwanese, Chinese (Mandarin)
+
+
+Skills {#computer}
+--------------------------------------------------------------------------------
+
+- Bash (Unix Shell), Linux (Ubuntu), SQL, NoSQL, R, Python, Julia, C, C++, Google Cloud, AWS
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Mingze (Rico) Huang {#title}
+--------------------------------------------------------------------------------
+
+Interest {#Interest}
+--------------------------------------------------------------------------------
+
+Fintech, Algorithmic Trading, Computational Statistics, Machine Learning (Classic and Deep Learning), Parallel Computing (High Performance Computing), Artificial Intelligence (Automation Programming for Drone/Robot)
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Nankai University
+
+Bs. (Risk Management and Insurance)
+
+Tianjin, China
+
+2010
+
+### Nankai University
+
+Ms. in Economics
+
+Tianjin, China
+
+2010
+
+### Tel Aviv University
+
+Summer Institute
+
+Tel Aviv, Israel
+
+2014
+
+### Texas A&M University
+
+Ms. in Economics
+
+College Station, Texas
+
+2016
+
+### Texas A&M University
+
+PhD. in Economics, Ms. in Statistics
+
+College Station, Texas
+
+2022
+
+Research {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### acpc: An R Package with Shiny App for Area Classification based on Census Data
+
+**Mingze Huang**
+
+College Station, Texas
+
+2020
+
+  - Github Repository: <https://github.com/mingzehuang/acpc>
+
+### latentcor: An R Package for estimating latent correlations from mixed data types
+
+**Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova
+
+College Station, Texas
+
+2021
+
+  - Paper *Pending*
+  - GitHub Repository: <https://github.com/mingzehuang/latentcor>
+  - Documentation: <https://mingzehuang.github.io/latentcor/>
+  - Supplementary Material: <https://github.com/mingzehuang/latentcor_evaluation>
+  
+### latentcor: A Python Package for Latent Correlation Estimation
+
+**Mingze Huang**, Christian L. Müller, Irina Gaynanova
+
+College Station, Texas
+
+2021
+
+  - Paper *Pending*
+  - GitHub Repository: <https://github.com/mingzehuang/latentcor_py>
+  - Documentation: *Pending*
+  - Supplementary Material: *Pending*
+  
+### An R Package for Evaluating Estimation Methods
+
+**Mingze Huang**, Irina Gaynanova
+
+College Station, Texas
+
+2021
+
+  - Paper *Pending*
+  - GitHub Repository: *Pending*
+  - Documentation: *Pending*
+  - Supplementary Material: *Pending*
+  
+
+Publications and Working Papers {data-icon=file}
+--------------------------------------------------------------------------------
+
+### latentcor: An R Package for Latent Correlation Estimation
+
+Link to Published Version : *Pending*
+
+College Station, Texas
+
+2021
+
+**Mingze Huang**, Christian L. Müller, Irina Gaynanova
+
+
+Fellowship/Awards {data-icon=medal}
+--------------------------------------------------------------------------------
+
+### Nankai University
+
+Undergraduate/Graduate Scholarship
+
+Tianjin, China
+
+2006-2012
+
+### Texas A&M University
+
+PhD Teaching/Research Assistantship, Dissertation Fellowship
+
+College Station, Texas
+
+2016 - 2022
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### ECON459-501: Games & Economic Behavior
+
+[Teaching Evaluation](https://pica.tamu.edu/SystemEntrance.aspx?ReturnUrl=%2f) for My Session: 4.33 / 5         
+(Course Average for All Sessions: 4.16 / 5)
+
+College Station, Texas
+
+2020
+
+  - Course Page: <https://mingzehuang.github.io/game.html>
+
+### ECON410: Macroeconomic Theory
+
+Teaching Evaluation: *Pending*
+
+College Station, Texas
+
+2021
+
+  - Course Page: <https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/>
+
+
+

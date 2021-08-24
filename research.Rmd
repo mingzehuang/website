@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+## {.tabset}
+
+### Peer-review Publication
+
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [submitted](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
+      
+### Working Paper
+
+### Software
+    
+- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
+  - [CRAN]
+  - [Github repository](https://github.com/mingzehuang/latentcor) 
+  - [Documentation](https://mingzehuang.github.io/latentcor/)
+  - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
+    
+- acpc: Data-driven Area Classification 
+  - [Github-repository](https://github.com/mingzehuang/acpc)
