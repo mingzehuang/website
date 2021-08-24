@@ -25,5 +25,5 @@ title: "Research"
   - [Documentation Website](https://mingzehuang.github.io/latentcor/)
   - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
     
-- acpc: Data-driven Area Classification 
+- **Mingze Huang**. acpc: Data-driven Area Classification 
   - [Github-repository](https://github.com/mingzehuang/acpc)
