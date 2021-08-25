@@ -207,6 +207,7 @@ College Station, Texas
 2021
 
   - Course Page: <https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/>
+  - Github Repository: <https://github.com/mingzehuang/ECON410_Macroeconomic_Theory>
 
 
 
