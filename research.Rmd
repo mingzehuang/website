@@ -13,13 +13,9 @@ title: "Research"
   - [arXiv:2108.09180](https://arxiv.org/abs/2108.09180)
   - [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
   
-### Working Papers
-
-- **Mingze Huang**. Shadow banking, information asymmetry and ring-fencing policy.
-
 ### Software
 
-- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
   - [Github repository](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
@@ -30,3 +26,7 @@ title: "Research"
     
 - **Mingze Huang**. acpc: Data-driven Area Classification 
   - [Github-repository](https://github.com/mingzehuang/acpc)
+  
+### Working Papers
+
+- **Mingze Huang**. Shadow banking, information asymmetry and ring-fencing policy.

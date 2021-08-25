@@ -68,7 +68,7 @@ output:
 
 ### Software
 
-- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
   - [Github repository](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
