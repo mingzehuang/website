@@ -25,7 +25,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> <mingzehuang@gmail.com>
 - <i class="fa fa-github"></i> <https://github.com/mingzehuang/latentcor>
 - <i class="fa fa-laptop"></i> <https://mingzehuang.github.io/>
-- <i class="fa fa-linkedin"></i> 
+- <i class="fa fa-linkedin"></i> <https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/>
 - For more information, please contact me via email.
 
 
