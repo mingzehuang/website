@@ -79,3 +79,9 @@ output:
     
 - **Mingze Huang**. acpc: Data-driven Area Classification 
   - [Github-repository](https://github.com/mingzehuang/acpc)
+  
+### Media Coverage
+
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
+  - [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
+

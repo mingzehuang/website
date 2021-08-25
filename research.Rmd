@@ -11,6 +11,7 @@ title: "Research"
 - **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [Under Review](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
   - [doi]
   - [arXiv:2108.09180](https://arxiv.org/abs/2108.09180)
+  - [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
   
 ### Working Papers
 
