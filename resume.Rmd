@@ -140,7 +140,7 @@ College Station, Texas
 
 2021
 
-  - CRAN: *pending*
+  - CRAN: <https://CRAN.R-project.org/package=latentcor>
   - GitHub Repository: <https://github.com/mingzehuang/latentcor>
   - Documentation Website: <https://mingzehuang.github.io/latentcor/>
   - Supplementary Material: <https://github.com/mingzehuang/latentcor_evaluation>

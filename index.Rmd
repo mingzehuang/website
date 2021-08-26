@@ -72,7 +72,7 @@ output:
   - [Github repository](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
-  - [CRAN]
+  - [CRAN](https://CRAN.R-project.org/package=latentcor)
   - [Github repository](https://github.com/mingzehuang/latentcor) 
   - [Documentation Website](https://mingzehuang.github.io/latentcor/)
   - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
