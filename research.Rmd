@@ -8,24 +8,28 @@ title: "Research"
 
 ### Peer-review Publications
 
-- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. *Journal of Open Source Software* [Under Review](https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9)
-  - [doi]
-  - [arXiv:2108.09180](https://arxiv.org/abs/2108.09180)
-  - [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types. [*Journal of Open Source Software, 6(65), 3634*](https://doi.org/10.21105/joss.03634)
+
+  [![DOI](https://joss.theoj.org/papers/10.21105/joss.03634/status.svg)](https://doi.org/10.21105/joss.03634)
+  [![arXiv](https://img.shields.io/badge/arXiv-2108.09180-<COLOR>.svg)](https://arxiv.org/abs/2108.09180)
   
 ### Software
 
 - **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
-  - [Github repository](https://github.com/mingzehuang/latentcor_py) 
+
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py) 
     
 - **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
-  - [CRAN](https://CRAN.R-project.org/package=latentcor)
-  - [Github repository](https://github.com/mingzehuang/latentcor) 
-  - [Documentation Website](https://mingzehuang.github.io/latentcor/)
-  - [Supplementary Material](https://github.com/mingzehuang/latentcor_evaluation)
+
+  [![CRAN status](https://www.r-pkg.org/badges/version-last-release/latentcor)](https://CRAN.R-project.org/package=latentcor) ![CRAN/METACRAN](https://img.shields.io/cran/l/latentcor?logo=R)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5517823.svg)](https://doi.org/10.5281/zenodo.5517823)
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/latentcor?logo=github)](https://github.com/mingzehuang/latentcor) ![GitHub](https://img.shields.io/github/license/mingzehuang/latentcor?logo=github)
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/latentcor/)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_evaluation?label=supplementary%20material&logo=github)](https://github.com/mingzehuang/latentcor_evaluation)
     
 - **Mingze Huang**. acpc: Data-driven Area Classification 
-  - [Github-repository](https://github.com/mingzehuang/acpc)
+
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/acpc?logo=github)](https://github.com/mingzehuang/acpc)
   
 ### Working Papers
 

@@ -23,7 +23,7 @@ Contact Info {#contact}
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
 - <i class="fa fa-envelope"></i> <mingzehuang@gmail.com>
-- <i class="fa fa-github"></i> <https://github.com/mingzehuang/latentcor>
+- <i class="fa fa-github"></i> <https://github.com/mingzehuang>
 - <i class="fa fa-laptop"></i> <https://mingzehuang.github.io/>
 - <i class="fa fa-linkedin"></i> <https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/>
 - For more information, please contact me via email.
@@ -112,7 +112,7 @@ College Station, Texas
 Peer-review Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### latentcor: An R Package for estimating latent correlations from mixed data types
+### latentcor: An R Package for estimating latent correlations from mixed data types [*Journal of Open Source Software, 6(65), 3634*](https://doi.org/10.21105/joss.03634)
 
 **Mingze Huang**, Christian L. Müller, Irina Gaynanova
 
@@ -120,10 +120,8 @@ College Station, Texas
 
 2021
 
-  - **Journal of Open Source Software** *(Under Review)*: <https://joss.theoj.org/papers/4a6c419d1fb73148cbf13881b97c5ba9>
-  - doi: *pending*
-  - arXiv: <https://arxiv.org/abs/2108.09180>
-  - NEWSBREAK: <https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types>
+  [![DOI](https://joss.theoj.org/papers/10.21105/joss.03634/status.svg)](https://doi.org/10.21105/joss.03634)
+  [![arXiv](https://img.shields.io/badge/arXiv-2108.09180-<COLOR>.svg)](https://arxiv.org/abs/2108.09180)
 
 Software {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -136,9 +134,7 @@ College Station, Texas
 
 2020
 
-  - CRAN: *pending*
-  - Github Repository: <https://github.com/mingzehuang/acpc>
-  - Documentation Website: *pending*
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/acpc?logo=github)](https://github.com/mingzehuang/acpc)
 
 ### latentcor: An R Package for estimating latent correlations from mixed data types
 
@@ -148,10 +144,11 @@ College Station, Texas
 
 2021
 
-  - CRAN: <https://CRAN.R-project.org/package=latentcor>
-  - GitHub Repository: <https://github.com/mingzehuang/latentcor>
-  - Documentation Website: <https://mingzehuang.github.io/latentcor/>
-  - Supplementary Material: <https://github.com/mingzehuang/latentcor_evaluation>
+  [![CRAN status](https://www.r-pkg.org/badges/version-last-release/latentcor)](https://CRAN.R-project.org/package=latentcor) ![CRAN/METACRAN](https://img.shields.io/cran/l/latentcor?logo=R)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5517823.svg)](https://doi.org/10.5281/zenodo.5517823)
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/latentcor?logo=github)](https://github.com/mingzehuang/latentcor) ![GitHub](https://img.shields.io/github/license/mingzehuang/latentcor?logo=github)
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/latentcor/)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_evaluation?label=supplementary%20material&logo=github)](https://github.com/mingzehuang/latentcor_evaluation)
   
 ### latentcor: A Python Package for estimating latent correlations from mixed data types
 
@@ -161,7 +158,7 @@ College Station, Texas
 
 2021
 
-  - GitHub Repository: <https://github.com/mingzehuang/latentcor_py>
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py) 
   
 Working Papers {data-icon=pen}
 --------------------------------------------------------------------------------
@@ -222,9 +219,10 @@ College Station, Texas
 
 2020
 
-  - [Teaching Evaluation](https://pica.tamu.edu/SystemEntrance.aspx?ReturnUrl=%2f): 4.33 / 5         
+  [Teaching Evaluation](https://pica.tamu.edu/SystemEntrance.aspx?ReturnUrl=%2f): 4.33 / 5         
 (Course Average for All Sessions: 4.16 / 5)
-  - Course Page: <https://mingzehuang.github.io/game.html>
+
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/game.html)
 
 ### Instructor of ECON410: Macroeconomic Theory
 
@@ -234,9 +232,10 @@ College Station, Texas
 
 2021
 
-  - [Teaching Evaluation](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2565376): 5 / 5
-  - Course Page: <https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/>
-  - Github Repository: <https://github.com/mingzehuang/ECON410_Macroeconomic_Theory>
+  [Teaching Evaluation](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2565376): 5 / 5
+  
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_evaluation?label=last%20commit&logo=github)](https://github.com/mingzehuang/ECON410_Macroeconomic_Theory)
 
 ### Teaching Assistant
 
