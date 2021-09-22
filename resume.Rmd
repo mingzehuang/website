@@ -160,6 +160,17 @@ College Station, Texas
 
   [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py) 
   
+Media Coverage {data-icon=newspaper}
+--------------------------------------------------------------------------------
+
+### latentcor: An R Package for estimating latent correlations from mixed data types.
+
+[*Computers*](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
+
+NEWSBREAK
+  
+2021
+
 Working Papers {data-icon=pen}
 --------------------------------------------------------------------------------
 
