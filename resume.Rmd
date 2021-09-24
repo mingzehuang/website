@@ -62,7 +62,7 @@ Mingze (Rico) Huang {#title}
 Interest {#Interest}
 --------------------------------------------------------------------------------
 
-Computational Statistics, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Package Development for R and Python, Drone Programming in Python, Fintech, Algorithmic Trading
+Computational Statistics, Package Development for R and Python, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Computational Finance
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------

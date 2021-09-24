@@ -11,20 +11,18 @@ output:
 
 ---
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
-
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
-### Research Interest
+---
 
   - *Computational Statistics*
   - *Package Development for R and Python*
   - *Machine Learning (Classic Learning and Deep Learning)*
   - *Parallel Computing on HPRC*
-  - *Drone programming in Python*
   - *Computational Finance*
 
 ## {.tabset}
@@ -36,7 +34,7 @@ output:
   [![DOI](https://joss.theoj.org/papers/10.21105/joss.03634/status.svg)](https://doi.org/10.21105/joss.03634)
   [![arXiv](https://img.shields.io/badge/arXiv-2108.09180-<COLOR>.svg)](https://arxiv.org/abs/2108.09180)
 
-### Software Development
+### Software
 
 - **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
 
@@ -58,7 +56,7 @@ output:
 
 - latentcor: An R Package for estimating latent correlations from mixed data types. [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
 
-### Computational Skills
+### Skills
 
   ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
