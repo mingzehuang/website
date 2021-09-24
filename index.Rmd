@@ -7,6 +7,10 @@ output:
 
 ---
 
+<img src="images/me.jpg" style = "width:30%; margin-right: 20px" align = "left">
+
+---
+
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
@@ -14,53 +18,14 @@ output:
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
 
-<style>
-  .col2 {
-    columns: 2 300px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 300px; /* chrome, safari */
-    -moz-columns: 2 300px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
+### Research Interest
 
----
-
-<img src="images/me.jpg" style = "width:30%; margin-right: 20px" align = "left">
-
----
-
-<div class="col2">
-
-- **Research Interest**
   - *Computational Statistics*
+  - *Package Development for R and Python*
   - *Machine Learning (Classic Learning and Deep Learning)*
   - *Parallel Computing on HPRC*
-  - *Package Development for R and Python*
   - *Drone programming in Python*
-  - *Fintech*
-  - *Algorithmic Trading*
-  
----
-
-- **Computer Skills**
-  - *Bash (Unix Shell)*
-  - *Linux (Ubuntu)*
-  - *SQL*
-  - *NoSQL*
-  - *R*
-  - *Python*
-  - *Julia*
-  - *C*
-  - *Intel DevCloud (Intel® Edge AI)*
-  - *AWS*
-
-</div>
-
----
+  - *Computational Finance*
 
 ## {.tabset}
 
@@ -71,7 +36,7 @@ output:
   [![DOI](https://joss.theoj.org/papers/10.21105/joss.03634/status.svg)](https://doi.org/10.21105/joss.03634)
   [![arXiv](https://img.shields.io/badge/arXiv-2108.09180-<COLOR>.svg)](https://arxiv.org/abs/2108.09180)
 
-### Software
+### Software Development
 
 - **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlations from mixed data types.
 
@@ -93,3 +58,17 @@ output:
 
 - latentcor: An R Package for estimating latent correlations from mixed data types. [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
 
+### Computational Skills
+
+  ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
+  ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
+  ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192??style=flat&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
+  ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
+  ![Intel® Edge AI](https://img.shields.io/badge/Intel® Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
