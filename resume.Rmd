@@ -22,11 +22,12 @@ Contact Info {#contact}
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
+- <i class="fa fa-twitter"></i> <https://twitter.com/mingze_rico>
 - <i class="fa fa-envelope"></i> <mingzehuang@gmail.com>
 - <i class="fa fa-github"></i> <https://github.com/mingzehuang>
 - <i class="fa fa-laptop"></i> <https://mingzehuang.github.io/>
 - <i class="fa fa-linkedin"></i> <https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/>
-- For more information, please contact me via email.
+- For more information, please contact me via [email](mailto:mingzehuang@gmail.com).
 
 
 Language {#language}

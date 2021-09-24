@@ -17,15 +17,4 @@ navbar:
       menu:
       - text: "Resume"
         href: resume.html
-    - text: "Contact"
-      menu:
-      - text: "Github"
-        icon: fa-at
-        href: "https://github.com/mingzehuang"
-      - text: "Email"
-        icon: fa-envelope
-        href: "mailto: mingzehuang@gmail.com"
-      - text: "Linkedin"
-        icon: fa-suitcase
-        href: "https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/"
         
