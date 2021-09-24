@@ -38,14 +38,13 @@ output:
 - **Research Interest**
   - *Computational Statistics*
   - *Machine Learning (Classic Learning and Deep Learning)*
-  - *Parallel Computing (High Performance Computing System)*
+  - *Parallel Computing on HPRC*
+  - *Package Development for R and Python*
+  - *Drone programming in Python*
   - *Fintech*
   - *Algorithmic Trading*
-  - *Artificial Intelligence (Automation Programming for Drone/Robot)*
   
 ---
-
-
 
 - **Computer Skills**
   - *Bash (Unix Shell)*
