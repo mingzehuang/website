@@ -15,6 +15,8 @@ output:
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+[![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
 ---
@@ -52,7 +54,7 @@ output:
 
   [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/acpc?logo=github)](https://github.com/mingzehuang/acpc)
   
-### Media Coverage
+### Media
 
 - latentcor: An R Package for estimating latent correlations from mixed data types. [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types)
 
@@ -70,3 +72,9 @@ output:
   ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
   ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
   ![Intel® Edge AI](https://img.shields.io/badge/Intel® Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
+  
+### Services
+
+- Peer-reviewer (@mingzehuang) for [*Journal of Open Source Software*](https://docs.google.com/spreadsheets/d/1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78/edit#gid=856801822)
+
+
