@@ -15,6 +15,7 @@ output:
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+[![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
@@ -75,6 +76,8 @@ output:
   
 ### Services
 
-- Peer-reviewer (@mingzehuang) for [*Journal of Open Source Software*](https://docs.google.com/spreadsheets/d/1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78/edit#gid=856801822)
+- Peer-reviewer for [*Journal of Open Source Software*](https://joss.theoj.org/)
+
+  [mingzehuang](https://docs.google.com/spreadsheets/d/1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78/edit#gid=856801822)
 
 
