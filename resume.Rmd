@@ -193,7 +193,15 @@ Academic Services {data-icon=paper}
 
 ### Peer-reviewer for [*Journal of Open Source Software*](https://joss.theoj.org/)
 
-[mingzehuang](https://docs.google.com/spreadsheets/d/1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78/edit#gid=856801822)
+@mingzehuang
+
+Online
+
+2021
+
+### Peer-reviewer for [*PLOS One*](https://journals.plos.org/plosone/)
+
+Mingze Huang
 
 Online
 
