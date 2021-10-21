@@ -279,9 +279,10 @@ Texas A&M University
 
 College Station, Texas
 
-2021
+2021-2022
 
-ECMT461: Economic Data Analysis
+- ECMT461: Economic Data Analysis; 
+- **ECEN489/STAT315: Special Topics: Computational Data Science**
   
 
 
