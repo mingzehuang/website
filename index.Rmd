@@ -18,11 +18,13 @@ output:
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
+[![Coursera](https://img.shields.io/badge/Coursera-Mingze%20(Rico)%20Huang-lightblue)](https://www.coursera.org/user/89a5264cc4e75aab512809323e1e79d1)
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
+  - ![Announcement](https://img.shields.io/badge/ANNOUNCEMENT-10%2F24%2F2021-yellow) For entry level Python/programming questions, please register/audit/sit-in *ECEN489/STAT315: Special Topics: Computational Data
+Science* next semester instead of sending me emails, see you in TA office hour 😄
   - ![News](https://img.shields.io/badge/NEWS-10%2F04%2F2021-brightgreen) R package: *latentcor(v1.1.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
-  - ![News](https://img.shields.io/badge/NEWS-08%2F26%2F2021-brightgreen) R package: *latentcor(v1.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
 
 ---
 
@@ -73,11 +75,9 @@ output:
   ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
   ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
-  ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192??style=flat&logo=postgresql&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
   ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
-  ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
   ![Intel® Edge AI](https://img.shields.io/badge/Intel® Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
   
 ### Services
