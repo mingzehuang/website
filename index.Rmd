@@ -1,6 +1,5 @@
 ---
-title: "Mingze (Rico) Huang"
-subtitle: "PhD in Economics, M.S. in Statistics (Texas A&M University at College Station)"
+title: ""
 output:
   html_document:
     runtime: shiny
@@ -22,6 +21,12 @@ output:
 
 ---
 
+<p><img src="images/me.JPG" style = "width:15%; margin-right: 20px" align = "left"></p>
+
+**PhD in Economics, MS in Statistics**
+
+*Texas A&M University (College Station)*
+
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
@@ -34,10 +39,7 @@ output:
 
 ---
 
-<div class="col3">
-
-![](images/me.jpg)
-
+<div class="col2">
 
   - ![Announcement](https://img.shields.io/badge/ANNOUNCEMENT-10%2F25%2F2021-yellow) **Stay tuned!** New version of R package: *latentcor(v1.2.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova is comming soon 🌈🌈🌈
 
