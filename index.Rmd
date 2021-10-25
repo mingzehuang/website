@@ -7,7 +7,18 @@ output:
 
 ---
 
-<img src="images/me.jpg" style = "width:30%; margin-right: 20px" align = "left">
+<style>
+  .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
 
 ---
 
@@ -21,10 +32,21 @@ output:
 [![Coursera](https://img.shields.io/badge/Coursera-Mingze%20(Rico)%20Huang-lightblue)](https://www.coursera.org/user/89a5264cc4e75aab512809323e1e79d1)
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
+---
+
+<div class="col3">
+
+![](images/me.jpg)
+
+
+  - ![Announcement](https://img.shields.io/badge/ANNOUNCEMENT-10%2F25%2F2021-yellow) **Stay tuned!** New version of R package: *latentcor(v1.2.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova is comming soon 🌈🌈🌈
+
   - ![Announcement](https://img.shields.io/badge/ANNOUNCEMENT-10%2F24%2F2021-yellow) For entry level Python/programming questions, please register/audit/sit-in *ECEN489/STAT315: Special Topics: Computational Data
 Science* next semester instead of sending me emails, see you in TA office hour 😄
-  - ![News](https://img.shields.io/badge/NEWS-10%2F04%2F2021-brightgreen) R package: *latentcor(v1.1.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
+  - ![News](https://img.shields.io/badge/NEWS-10%2F04%2F2021-brightgreen) New version of R package: *latentcor(v1.1.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
+
+</div>
 
 ---
 
