@@ -106,8 +106,6 @@ Newport Beach, California
 
 2022
 
-- Data processing and algorithm development using Python
-
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -273,5 +271,33 @@ PhD Teaching/Research Assistantship, Dissertation Fellowship, International Texa
 College Station, Texas
 
 2016 - 2022
+
+Professional Associations {data-icon=school}
+--------------------------------------------------------------------------------
+
+### ASA
+
+American Statistical Association
+
+USA
+
+2021 -
+
+### IEEE
+
+Institute of Electrical and Electronics Engineers
+
+USA
+
+2022 -
+
+### RSS
+
+Royal Statistical Society
+
+UK
+
+2022 -
+
 
 
