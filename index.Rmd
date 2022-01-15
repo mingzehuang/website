@@ -23,7 +23,6 @@ output:
 
 <p><img src="images/me.JPG" style = "width:15%; margin-right: 20px" align = "left"></p>
 
-**Data Scientist, PhD in Economics, MS in Statistics**
 
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
