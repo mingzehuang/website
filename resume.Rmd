@@ -114,9 +114,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Nankai University
 
-Bs. (Risk Management and Insurance)
-
-Ms. in Economics
+BSc. and MSc. in Economics
 
 Tianjin, China
 
@@ -132,7 +130,7 @@ Tel Aviv, Israel
 
 ### Texas A&M University
 
-Ms. in Economics
+MSc. in Economics
 
 College Station, Texas
 
@@ -140,7 +138,7 @@ College Station, Texas
 
 ### Texas A&M University
 
-Ms. in Statistics (Advisor: Irina Gaynanova)
+MSc. in Statistics (Advisor: Irina Gaynanova)
 
 College Station, Texas
 
