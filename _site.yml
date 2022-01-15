@@ -5,16 +5,20 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
+    - text: "Software"
+      href: software.html
+    - text: "Publications"
+      href: publication.html
+    - text: "Projects"
+      href: project.html
+    - text: "Services"
+      href: service.html
     - text: "Teaching"
       menu:
       - text: "Game Theory"
         href: game.html
       - text: "Macroeconomic Theory"
         href: "https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/"
-    - text: "About Me"
-      menu:
-      - text: "Resume"
-        href: resume.html
+    - text: "Resume"
+      href: resume.html
         

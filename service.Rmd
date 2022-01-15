@@ -1,0 +1,7 @@
+---
+title: "Services"
+---
+
+- Peer-reviewer for [*Journal of Open Source Software*](https://joss.theoj.org/)
+
+- Peer-reviewer for [*PLOS One*](https://journals.plos.org/plosone/)
