@@ -57,15 +57,57 @@ Main
 Mingze (Rico) Huang {#title}
 --------------------------------------------------------------------------------
 
-Interest {#Interest}
+About {data-icon=cloud}
 --------------------------------------------------------------------------------
 
-- Computational Statistics
-- Package Development for R, Python and Julia
-- Machine Learning (Classic Learning and Deep Learning)
-- Parallel Computing on HPRC
-- Bioinformatics
-- Crypto Mining
+I'm doing Computational Statistics, Package Development for R, Python and Julia, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Bioinformatics, Crypto Mining
+
+
+Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Teaching Assistant
+
+Texas A&M University
+
+College Station, Texas
+
+2016-2022
+
+::: concise
+- ECMT460/660: Mathematical Economics; 
+- ECMT674: Economic Forecasting; 
+- ECON675: Capstone for Financial Economics / Financial Econometrics; 
+- ECON330: Economic Development; 
+- ECON612: Money, Banking and Financial Market; 
+- ECON203: Principle of Economics (Honor Capstone Project); 
+- ECON611: Foundation of Macroeconomic Theory;
+- ECMT461: Economic Data Analysis; 
+- **ECEN489/STAT315: Special Topics: Computational Data Science**
+:::
+
+### Instructor
+
+Texas A&M University
+
+College Station, Texas
+
+2020-2022
+
+::: concise
+- [ECON459: Games & Economic Behavior](https://mingzehuang.github.io/game.html)
+- [ECON410: Macroeconomic Theory](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
+:::
+
+### Data Scientist
+
+Eonum, Inc.
+
+Newport Beach, California
+
+2022-
+
+- Data processing and algorithm development using Python
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -248,66 +290,5 @@ PhD Teaching/Research Assistantship, Dissertation Fellowship, International Texa
 College Station, Texas
 
 2016 - 2022
-
-Working Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Teaching Assistant
-
-Texas A&M University
-
-College Station, Texas
-
-2016-2019
-
-::: concise
-- ECMT460/660: Mathematical Economics; 
-- ECMT674: Economic Forecasting; 
-- ECON675: Capstone for Financial Economics / Financial Econometrics; 
-- ECON330: Economic Development; 
-- ECON612: Money, Banking and Financial Market; 
-- ECON203: Principle of Economics (Honor Capstone Project); 
-- ECON611: Foundation of Macroeconomic Theory;
-:::
-
-### Instructor of ECON459-501: Games & Economic Behavior
-
-Texas A&M University
-
-College Station, Texas
-
-2020
-
-  [Teaching Evaluation](https://pica.tamu.edu/SystemEntrance.aspx?ReturnUrl=%2f): 4.33 / 5         
-(Course Average for All Sessions: 4.16 / 5)
-
-  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/game.html)
-
-### Instructor of ECON410: Macroeconomic Theory
-
-Texas A&M University
-
-College Station, Texas
-
-2021
-
-  [Teaching Evaluation](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2565376): 5 / 5
-  
-  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_evaluation?label=last%20commit&logo=github)](https://github.com/mingzehuang/ECON410_Macroeconomic_Theory)
-
-### Teaching Assistant
-
-Texas A&M University
-
-College Station, Texas
-
-2021-2022
-
-- ECMT461: Economic Data Analysis; 
-- **ECEN489/STAT315: Special Topics: Computational Data Science**
-  
-
-
 
 
