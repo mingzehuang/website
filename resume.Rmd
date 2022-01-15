@@ -138,15 +138,7 @@ College Station, Texas
 
 ### Texas A&M University
 
-MSc. in Statistics (Advisor: Irina Gaynanova)
-
-College Station, Texas
-
-2022
-
-### Texas A&M University
-
-PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
+MSc. in Statistics (Advisor: Irina Gaynanova) and PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
 
 College Station, Texas
 
@@ -253,24 +245,24 @@ College Station, Texas
 
 2022
 
-Academic Services {data-icon=paper}
+Peer-review Services {data-icon=handshake}
 --------------------------------------------------------------------------------
 
-### Peer-reviewer for [*Journal of Open Source Software*](https://joss.theoj.org/)
+### [*Journal of Open Source Software*](https://joss.theoj.org/)
 
 @mingzehuang
 
 Online
 
-2021
+2021 -
 
-### Peer-reviewer for [*PLOS One*](https://journals.plos.org/plosone/)
+### [*PLOS One*](https://journals.plos.org/plosone/)
 
 Mingze Huang
 
 Online
 
-2021
+2021 -
 
 Fellowship/Awards {data-icon=medal}
 --------------------------------------------------------------------------------
