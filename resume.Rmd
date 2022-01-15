@@ -43,7 +43,6 @@ Skills {#skill}
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
-![Intel® Edge AI](https://img.shields.io/badge/Intel® Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -72,7 +71,7 @@ Texas A&M University
 
 College Station, Texas
 
-2016-2022
+2016 - 2022
 
 ::: concise
 - ECMT460/660: Mathematical Economics; 
@@ -92,7 +91,7 @@ Texas A&M University
 
 College Station, Texas
 
-2020-2022
+2020 - 2022
 
 ::: concise
 - [ECON459: Games & Economic Behavior](https://mingzehuang.github.io/game.html)
@@ -105,7 +104,7 @@ Eonum, Inc.
 
 Newport Beach, California
 
-2022-
+2022
 
 - Data processing and algorithm development using Python
 
@@ -254,7 +253,7 @@ Peer-review Services {data-icon=handshake}
 
 Online
 
-2021 -
+2021 - 2022
 
 ### [*PLOS One*](https://journals.plos.org/plosone/)
 
@@ -262,7 +261,7 @@ Mingze Huang
 
 Online
 
-2021 -
+2021 - 2022
 
 Fellowship/Awards {data-icon=medal}
 --------------------------------------------------------------------------------
