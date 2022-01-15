@@ -80,7 +80,7 @@ College Station, Texas
 - ECON675: Capstone for Financial Economics / Financial Econometrics; 
 - ECON330: Economic Development; 
 - ECON612: Money, Banking and Financial Market; 
-- ECON203: Principle of Economics (Honor Capstone Project); 
+- ECON203: Principle of Economics; 
 - ECON611: Foundation of Macroeconomic Theory;
 - ECMT461: Economic Data Analysis; 
 - **ECEN489/STAT315: Special Topics: Computational Data Science**
