@@ -10,4 +10,4 @@ title: "Projects"
 
 - **Mingze Huang**, Irina Gaynanova. The Application of Canonical Correlation Analysis for Mixed Data Types in Social Science and Public Health Policy.
 
-- Artem Rogovskyy, Scott Crawford, **Mingze Huang**. The Inter-sex and Inter-line/strain differences on Infection of Lyme Disease.
+- Artem Rogovskyy, Scott Crawford, **Mingze Huang**. Genetic background affects mouse responses to the Lyme disease pathogen.

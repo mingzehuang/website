@@ -73,13 +73,15 @@ I'm doing Computational Statistics, Package Development for R, Python and Julia,
 Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Teaching Assistant
+### Teaching Economics
 
 Texas A&M University
 
 College Station, Texas
 
 2016 - 2022
+
+- As **Teaching Assistant** for:
 
 ::: concise
 - ECMT460/660: Mathematical Economics; 
@@ -90,29 +92,32 @@ College Station, Texas
 - ECON203: Principle of Economics; 
 - ECON611: Foundation of Macroeconomic Theory;
 - ECMT461: Economic Data Analysis; 
-- **ECEN489/STAT315: Special Topics: Computational Data Science**
 :::
 
-### Instructor
-
-Texas A&M University
-
-College Station, Texas
-
-2020 - 2021
+- As **Instructor** for:
 
 ::: concise
 - [ECON459: Games & Economic Behavior](https://mingzehuang.github.io/game.html)
 - [ECON410: Macroeconomic Theory](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
 :::
 
-### Data Scientist
+### Intern Data Scientist
 
 Eonum, Inc.
 
 Newport Beach, California
 
 2022
+
+### Teaching Assistant for Data Science
+
+Texas A&M University
+
+College Station, Texas
+
+2022
+
+- **ECEN489/STAT315: Special Topics: Computational Data Science**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -143,7 +148,16 @@ College Station, Texas
 
 ### Texas A&M University
 
-MSc. in Statistics (Advisor: Irina Gaynanova) and PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
+MSc. in Statistics (Advisor: Irina Gaynanova)
+
+College Station, Texas
+
+2022
+
+### Texas A&M University
+
+PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
+Dissertation: Essays in The Application of Computational Statistics and Machine Learning in Social-Economic Research
 
 College Station, Texas
 
@@ -242,7 +256,7 @@ College Station, Texas
 
 2021
 
-### The Inter-sex and Inter-line/strain Differences on Infection of Lyme Disease.
+### Genetic background affects mouse responses to the Lyme disease pathogen.
 
 Artem Rogovskyy, Scott Crawford, **Mingze Huang**.
 
