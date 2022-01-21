@@ -101,14 +101,6 @@ College Station, Texas
 - [ECON410: Macroeconomic Theory](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
 :::
 
-### Intern Data Scientist
-
-Eonum, Inc.
-
-Newport Beach, California
-
-2022
-
 ### Teaching Assistant for Data Science
 
 Texas A&M University
@@ -118,6 +110,20 @@ College Station, Texas
 2022
 
 - **ECEN360/STAT315: Special Topics: Computational Data Science**
+
+:::concise
+- Apply basic statistical concepts that are used in data science;
+- Carry out data science projects systematically;
+- Apply simple statistical techniques for data analysis;
+- Create and manage an **open source software environment** for data science projects;
+- Design non-trivial data science projects with **Python**;
+- Apply open source tools to read, update, and write **JSON**, **CSV**, **XML** and other structured data formats;
+- Retrieve data with simple **SQL** and **NoSQL** queries;
+- Explore a data set with **limited contextual information** to get insight through analysis and **visualization**;
+- Create, train, and deploy common **machine learning** models with **scikit-learn**;
+- Create, train, and deploy simple **deep learning** models with **TensorFlow**;
+- Carry out **big data** analysis.
+:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
