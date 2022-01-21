@@ -157,7 +157,7 @@ College Station, Texas
 ### Texas A&M University
 
 PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
-Dissertation: Essays in The Application of Computational Statistics and Machine Learning in Social-Economic Research
+Dissertation: Essays in the Use of Statistical Machine Learning in Social-Economic Research
 
 College Station, Texas
 
