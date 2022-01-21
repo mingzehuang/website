@@ -117,7 +117,7 @@ College Station, Texas
 
 2022
 
-- **ECEN489/STAT315: Special Topics: Computational Data Science**
+- **ECEN360/STAT315: Special Topics: Computational Data Science**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
