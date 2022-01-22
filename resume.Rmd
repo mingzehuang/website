@@ -163,7 +163,7 @@ College Station, Texas
 ### Texas A&M University
 
 PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
-Dissertation: Essays in the Use of Statistical Machine Learning in Social-Economic Research
+Dissertation: Essays in Statistical Machine Learning and Software Development for Social-Economic Research
 
 College Station, Texas
 
@@ -204,7 +204,7 @@ College Station, Texas
 
 2021
 
-  [![CRAN status](https://www.r-pkg.org/badges/version-last-release/latentcor)](https://CRAN.R-project.org/package=latentcor) ![CRAN/METACRAN](https://img.shields.io/cran/l/latentcor?logo=R)
+  [![CRAN status](https://img.shields.io/badge/CRAN-v1.2.0-green)](https://CRAN.R-project.org/package=latentcor) ![CRAN/METACRAN](https://img.shields.io/cran/l/latentcor?logo=R)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5517823.svg)](https://doi.org/10.5281/zenodo.5517823)
   [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/latentcor?logo=github)](https://github.com/mingzehuang/latentcor) ![GitHub](https://img.shields.io/github/license/mingzehuang/latentcor?logo=github)
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/latentcor/)
