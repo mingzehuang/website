@@ -11,3 +11,4 @@ title: "Projects"
 - **Mingze Huang**, Irina Gaynanova. The Application of Canonical Correlation Analysis for Mixed Data Types in Social Science and Public Health Policy.
 
 - Artem Rogovskyy, Scott Crawford, **Mingze Huang**. Genetic background affects mouse responses to the Lyme disease pathogen.
+[![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/lyme_disease?logo=github)](https://github.com/mingzehuang/lyme_disease)
