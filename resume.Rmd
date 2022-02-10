@@ -272,6 +272,15 @@ College Station, Texas
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/lyme_disease?logo=github)](https://github.com/mingzehuang/lyme_disease)
 
+### The Role of Simultaneity of Venture Capitalists' Coopetition on Start-up Exit.
+
+Xiaolei Wang, Yan Zhong, Mingze Huang
+
+College Station, Texas
+
+2022
+
+
 Peer-review Services {data-icon=handshake}
 --------------------------------------------------------------------------------
 
