@@ -26,7 +26,7 @@ output:
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20("Rico")%20Huang-blue)](https://www.linkedin.com/in/mingze-huang-a7986b21a/)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
 
@@ -38,6 +38,8 @@ output:
 
   - ![News](https://img.shields.io/badge/NEWS-08%2F22%2F2022-brightgreen) New version of Python package: *latentcor(v0.2.3)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
   
+  - ![News](https://img.shields.io/badge/NEWS-08%2F12%2F2022-brightgreen) Congratulations to me! I received my MS degree in Statistics today! 🌈🌈🌈
+  
   - ![News](https://img.shields.io/badge/NEWS-08%2F09%2F2022-brightgreen) New version of R package: *latentcor(v2.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   
   - ![News](https://img.shields.io/badge/NEWS-05%2F23%2F2022-brightgreen) Formal version of Python package: *latentcor(v0.1.4)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
@@ -47,8 +49,6 @@ output:
   - ![News](https://img.shields.io/badge/NEWS-11%2F01%2F2021-brightgreen) New version of R package: *latentcor(v1.2.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
-  
-  - ![News](https://img.shields.io/badge/NEWS-08%2F26%2F2021-brightgreen) New R package: *latentcor(v1.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   
   - ![Media Coverage](https://img.shields.io/badge/MEDIA-08%2F20%2F2021-brightgreen) latentcor: An R Package for estimating latent correlations from mixed data types. by Mingze Huang, Christian L. Müller, Irina Gaynanova on [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types) 🌈🌈🌈
 

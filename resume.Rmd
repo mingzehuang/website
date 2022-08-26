@@ -1,5 +1,5 @@
 ---
-title: "Mingze (Rico) Huang"
+title: "Mingze \"Rico\" Huang"
 author: Mingze Huang
 date: "`r Sys.Date()`"
 output:
@@ -24,7 +24,7 @@ Contact Info {#contact}
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 [![website](https://img.shields.io/badge/website-mingzehuang.github.io-blue)](https://mingzehuang.github.io)
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
-[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20("Rico")%20Huang-blue)](https://www.linkedin.com/in/mingze-huang-a7986b21a/)
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
@@ -58,7 +58,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Mingze (Rico) Huang {#title}
+Mingze "Rico" Huang {#title}
 --------------------------------------------------------------------------------
 
 About {data-icon=cloud}
