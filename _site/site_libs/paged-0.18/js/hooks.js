@@ -554,7 +554,7 @@
   });
 
   // Repeat table headers on multiple pages
-  // Authors: Julien Taquet, Lucas Maciuga and Tafael Caixeta, see https://gitlab.pagedmedia.org/tools/pagedjs/issues/84
+  // Authors: Julien Taquet, Lucas Maciuga and Tafael Caixeta, see https://gitlab.coko.foundation/pagedjs/pagedjs/-/issues/84
   // TODO: remove this hook when Paged.js integrates this feature
   Paged.registerHandlers(class RepeatingTableHeadersHandler extends Paged.Handler {
 
@@ -636,7 +636,7 @@
     layout(rendered, layout) {
         this.splitTablesRefs.forEach(ref => {
             const renderedTable = rendered.querySelector("[data-ref='" + ref + "']");
-            if (renderedTable) {
+            if (renderedTable && renderedTable.hasAttribute("data-split-from")) {
                 // this event can be triggered multiple times
                 // added a flag repeated-headers to control when table headers already repeated in current page.
                 if (!renderedTable.getAttribute("repeated-headers")) {

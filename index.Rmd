@@ -29,32 +29,40 @@ output:
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
-*I'm doing Computational Statistics, Package Development for R, Python and Julia, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Bioinformatics, Crypto Mining*
+*I'm doing Computational Statistics, Package Development for R and Python, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Bioinformatics*
 
 ---
 
+  - ![News](https://img.shields.io/badge/NEWS-08%2F22%2F2022-brightgreen) New version of Python package: *latentcor(v0.2.3)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
+  
+  - ![News](https://img.shields.io/badge/NEWS-08%2F09%2F2022-brightgreen) New version of R package: *latentcor(v2.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
+  
+  - ![News](https://img.shields.io/badge/NEWS-05%2F23%2F2022-brightgreen) Formal version of Python package: *latentcor(v0.1.4)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
+
   - ![News](https://img.shields.io/badge/NEWS-1%2F07%2F2022-brightgreen) Test version of Python package: *latentcor(v0.1.3)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*Test PyPI*](https://test.pypi.org/project/latentcor/) Stay tuned! Formal version is coming soon 🌈🌈🌈
+
   - ![News](https://img.shields.io/badge/NEWS-11%2F01%2F2021-brightgreen) New version of R package: *latentcor(v1.2.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
+  
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
+  
   - ![News](https://img.shields.io/badge/NEWS-08%2F26%2F2021-brightgreen) New R package: *latentcor(v1.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
+  
   - ![Media Coverage](https://img.shields.io/badge/MEDIA-08%2F20%2F2021-brightgreen) latentcor: An R Package for estimating latent correlations from mixed data types. by Mingze Huang, Christian L. Müller, Irina Gaynanova on [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types) 🌈🌈🌈
 
 
 ---
 
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
