@@ -5,15 +5,21 @@ title: "Software"
 [![GitHub](https://img.shields.io/badge/github-%40mingzehuang-brightgreen)](https://github.com/mingzehuang)
 [![Email](https://img.shields.io/badge/email-mingzehuang%40gmail.com-green)](mailto:mingzehuang@gmail.com)
 
-- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor: A Python Package for estimating latent correlation of mixed data types.
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. *latentcor: A Python Package for estimating latent correlation of mixed data types*.
 
   [![PyPI](https://img.shields.io/badge/PyPI-v0.2.3-brightgreen)](https://pypi.org/project/latentcor/)
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://latentcor-py.readthedocs.io/en/latest/)
   [![Build Status](https://app.travis-ci.com/mingzehuang/latentcor_py.svg?branch=master)](https://app.travis-ci.com/mingzehuang/latentcor_py)
   [![codecov](https://codecov.io/gh/mingzehuang/latentcor_py/branch/master/graph/badge.svg?token=SF57J6ZW0B)](https://codecov.io/gh/mingzehuang/latentcor_py)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py) 
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py)
+  
+- Grace Yoon, **Mingze Huang**, Irina Gaynanova. *mixedCCA: Sparse Canonical Correlation Analysis for High-Dimensional Mixed Data*.
+
+  [![CRAN status](https://www.r-pkg.org/badges/version-last-release/mixedCCA)](https://CRAN.R-project.org/package=mixedCCA)
+  ![CRAN/METACRAN](https://img.shields.io/cran/l/mixedCCA?logo=R)
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/irinagain/mixedCCA?logo=github)](https://github.com/irinagain/mixedCCA)
     
-- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. latentcor: An R Package for estimating latent correlations from mixed data types.
+- **Mingze Huang**, Grace Yoon, Christian L. Müller, Irina Gaynanova. *latentcor: An R Package for estimating latent correlations from mixed data types*.
 
   [![CRAN status](https://www.r-pkg.org/badges/version-last-release/latentcor)](https://CRAN.R-project.org/package=latentcor) ![CRAN/METACRAN](https://img.shields.io/cran/l/latentcor?logo=R)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5517823.svg)](https://doi.org/10.5281/zenodo.5517823)
@@ -21,6 +27,6 @@ title: "Software"
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mingzehuang.github.io/latentcor/)
   [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_evaluation?label=supplementary%20material&logo=github)](https://github.com/mingzehuang/latentcor_evaluation)
     
-- **Mingze Huang**. acpc: Data-driven Area Classification 
+- **Mingze Huang**. *acpc: Data-driven Area Classification*. 
 
   [![GitHub R package version](https://img.shields.io/github/r-package/v/mingzehuang/acpc?logo=github)](https://github.com/mingzehuang/acpc)

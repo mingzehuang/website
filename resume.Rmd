@@ -204,7 +204,17 @@ College Station, Texas
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://latentcor-py.readthedocs.io/en/latest/)
   [![Build Status](https://app.travis-ci.com/mingzehuang/latentcor_py.svg?branch=master)](https://app.travis-ci.com/mingzehuang/latentcor_py)
   [![codecov](https://codecov.io/gh/mingzehuang/latentcor_py/branch/master/graph/badge.svg?token=SF57J6ZW0B)](https://codecov.io/gh/mingzehuang/latentcor_py)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py) 
+  [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py)
+  
+Grace Yoon, **Mingze Huang**, Irina Gaynanova. *mixedCCA: Sparse Canonical Correlation Analysis for High-Dimensional Mixed Data*.
+
+College Station, Texas
+
+2022
+
+  [![CRAN status](https://www.r-pkg.org/badges/version-last-release/mixedCCA)](https://CRAN.R-project.org/package=mixedCCA)
+  ![CRAN/METACRAN](https://img.shields.io/cran/l/mixedCCA?logo=R)
+  [![GitHub R package version](https://img.shields.io/github/r-package/v/irinagain/mixedCCA?logo=github)](https://github.com/irinagain/mixedCCA)
   
 Media Coverage {data-icon=newspaper}
 --------------------------------------------------------------------------------
