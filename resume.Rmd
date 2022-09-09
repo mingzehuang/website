@@ -206,7 +206,9 @@ College Station, Texas
   [![codecov](https://codecov.io/gh/mingzehuang/latentcor_py/branch/master/graph/badge.svg?token=SF57J6ZW0B)](https://codecov.io/gh/mingzehuang/latentcor_py)
   [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/latentcor_py?logo=github)](https://github.com/mingzehuang/latentcor_py)
   
-Grace Yoon, **Mingze Huang**, Irina Gaynanova. *mixedCCA: Sparse Canonical Correlation Analysis for High-Dimensional Mixed Data*.
+### mixedCCA: Sparse Canonical Correlation Analysis for High-Dimensional Mixed Data
+
+Grace Yoon, **Mingze Huang**, Irina Gaynanova      
 
 College Station, Texas
 
