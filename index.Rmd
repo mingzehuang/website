@@ -36,7 +36,7 @@ output:
 
 ---
 
-  - ![News](https://img.shields.io/badge/NEWS-08%2F22%2F2022-brightgreen) New version of Python package: *latentcor(v0.2.3)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
+  - ![News](https://img.shields.io/badge/NEWS-09%2F07%2F2022-brightgreen) New version of Python package: *latentcor(v0.2.4)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
   
   - ![News](https://img.shields.io/badge/NEWS-08%2F12%2F2022-brightgreen) Congratulations to me! I received my MS degree in Statistics today! 🌈🌈🌈
   
