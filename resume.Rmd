@@ -64,7 +64,7 @@ Mingze "Rico" Huang {#title}
 About {data-icon=cloud}
 --------------------------------------------------------------------------------
 
-I'm doing Computational Statistics, Package Development for R and Python, Machine Learning (Classic and Deep Learning), Parallel Computing on HPRC, Bioinformatics
+I'm doing Computational Statistics, Package Development for R and Python, Machine Learning (Classic and Deep Learning), Parallel Computing on HPC
 
 
 Experience {data-icon=chalkboard-teacher}
@@ -107,20 +107,6 @@ College Station, Texas
 2022
 
 - **ECEN360/STAT315: Special Topics: Computational Data Science**
-
-:::concise
-- Apply basic statistical concepts that are used in data science;
-- Carry out data science projects systematically;
-- Apply simple statistical techniques for data analysis;
-- Create and manage an **open source software environment** for data science projects;
-- Design non-trivial data science projects with **Python**;
-- Apply open source tools to read, update, and write **JSON**, **CSV**, **XML** and other structured data formats;
-- Retrieve data with simple **SQL** and **NoSQL** queries;
-- Explore a data set with **limited contextual information** to get insight through analysis and **visualization**;
-- Create, train, and deploy common **machine learning** models with **scikit-learn**;
-- Create, train, and deploy simple **deep learning** models with **TensorFlow**;
-- Carry out **big data** analysis.
-:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -214,7 +200,7 @@ College Station, Texas
 
 2021
 
-  [![PyPI](https://img.shields.io/badge/PyPI-v0.2.3-brightgreen)](https://pypi.org/project/latentcor/)
+  [![PyPI](https://img.shields.io/badge/PyPI-v0.2.4-brightgreen)](https://pypi.org/project/latentcor/)
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://latentcor-py.readthedocs.io/en/latest/)
   [![Build Status](https://app.travis-ci.com/mingzehuang/latentcor_py.svg?branch=master)](https://app.travis-ci.com/mingzehuang/latentcor_py)
   [![codecov](https://codecov.io/gh/mingzehuang/latentcor_py/branch/master/graph/badge.svg?token=SF57J6ZW0B)](https://codecov.io/gh/mingzehuang/latentcor_py)
