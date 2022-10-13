@@ -6,9 +6,7 @@ title: "Projects"
 [![ResarchGate](https://img.shields.io/badge/ReserchGate-Mingze%20Huang-green)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 
-- **Mingze Huang**, Johannes Ostner, Christian L. Müller, Irina Gaynanova. latentcor is a Package for Aggregated Cell-type Level Data Analysis.
-
-- **Mingze Huang**, Irina Gaynanova. The Application of Latent Correlation Estimation for Mixed Data Types in Social Science and Public Health Policy.
+- **Mingze Huang**, Christian L. Müller, Irina Gaynanova. latentcor is a Package for Aggregated Cell-type Level Data Analysis.
 
 - Artem Rogovskyy, Scott Crawford, **Mingze Huang**. Genetic background affects mouse responses to the Lyme disease pathogen.
 [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/lyme_disease?logo=github)](https://github.com/mingzehuang/lyme_disease)

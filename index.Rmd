@@ -36,17 +36,15 @@ output:
 
 ---
 
+  - ![News](https://img.shields.io/badge/NEWS-10%2F12%2F2022-brightgreen) Congratulations to me! I passed dissertation defense for my PhD degree in Economics today! 🌈🌈🌈
+
   - ![News](https://img.shields.io/badge/NEWS-09%2F10%2F2022-brightgreen) New version of R package: *mixedCCA(v1.6.2)* by Grace Yoon, Mingze Huang, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=mixedCCA) 🌈🌈🌈
 
   - ![News](https://img.shields.io/badge/NEWS-09%2F07%2F2022-brightgreen) New version of Python package: *latentcor(v0.2.4)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
   
   - ![News](https://img.shields.io/badge/NEWS-08%2F12%2F2022-brightgreen) Congratulations to me! I received my MS degree in Statistics today! 🌈🌈🌈
   
-  - ![News](https://img.shields.io/badge/NEWS-08%2F09%2F2022-brightgreen) New version of R package: *latentcor(v2.0.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
-  
   - ![News](https://img.shields.io/badge/NEWS-05%2F23%2F2022-brightgreen) Formal version of Python package: *latentcor(v0.1.4)* by Mingze Huang, Christian L. Müller, Irina Gaynanova available on [*PyPI*](https://pypi.org/project/latentcor/) 🌈🌈🌈
-
-  - ![News](https://img.shields.io/badge/NEWS-11%2F01%2F2021-brightgreen) New version of R package: *latentcor(v1.2.0)* by Mingze Huang, Grace Yoon, Christian L. Müller, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=latentcor) 🌈🌈🌈
   
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
   
@@ -63,7 +61,6 @@ output:
 ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)

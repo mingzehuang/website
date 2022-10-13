@@ -40,7 +40,6 @@ Skills {#skill}
 ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
@@ -232,17 +231,9 @@ NEWSBREAK
 Working Papers {data-icon=pen}
 --------------------------------------------------------------------------------
 
-### latentcor is a Package for Aggregated Cell-type Level Data Analysis
+### latentcor is a Python Package for Aggregated Cell-type Level Data Analysis
 
 **Mingze Huang**, Christian L. Müller, Irina Gaynanova.
-
-College Station, Texas
-
-2021
-
-### The Application of Latent Correlation Estimation for Mixed Data Types in Social Science and Public Health Policy.
-
-**Mingze Huang**, Irina Gaynanova.
 
 College Station, Texas
 
@@ -266,6 +257,13 @@ College Station, Texas
 
 2022
 
+### PCA with Latent Correlation
+
+Mingze Huang, Irina Gaynanova
+
+College Station, Texas
+
+2022
 
 Peer-review Services {data-icon=handshake}
 --------------------------------------------------------------------------------
