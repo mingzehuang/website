@@ -10,3 +10,7 @@ title: "Projects"
 
 - Artem Rogovskyy, Scott Crawford, **Mingze Huang**. Genetic background affects mouse responses to the Lyme disease pathogen.
 [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/lyme_disease?logo=github)](https://github.com/mingzehuang/lyme_disease)
+
+- **Mingze Huang**, Irina Gaynanova, Christian L. Müller. The Effecacy of COVID Government Response Policy: Application of Estimating Latent Correlations between Serially Correlated Mixed Data
+
+- **Mingze Huang**, Irina Gaynanova. PCA with Latent Correlation

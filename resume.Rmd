@@ -63,7 +63,7 @@ Mingze "Rico" Huang {#title}
 About {data-icon=cloud}
 --------------------------------------------------------------------------------
 
-I'm doing Computational Statistics, Package Development for R and Python, Machine Learning (Classic and Deep Learning), Parallel Computing on HPC
+I'm doing Computational Statistics, Package Development for R and Python, Statistical Machine Learning, Parallel Computing on HPC
 
 
 Experience {data-icon=chalkboard-teacher}
@@ -145,7 +145,7 @@ College Station, Texas
 ### Texas A&M University
 
 PhD. in Economics (Dissertation Advisor: Irina Gaynanova)
-Dissertation: Essays in Statistical Machine Learning and Software Development for Social-Economic Research
+Dissertation: Estimation of Latent Correlations between Mixed Types of Measurements With Applications in Social-Economic Research
 
 College Station, Texas
 
@@ -249,9 +249,9 @@ College Station, Texas
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mingzehuang/lyme_disease?logo=github)](https://github.com/mingzehuang/lyme_disease)
 
-### The Role of Simultaneity of Venture Capitalists' Coopetition on Start-up Exit.
+### The Effecacy of COVID Government Response Policy: Application of Estimating Latent Correlations between Serially Correlated Mixed Data
 
-Xiaolei Wang, Yan Zhong, Mingze Huang
+**Mingze Huang**, Irina Gaynanova, Christian L. Müller
 
 College Station, Texas
 
@@ -259,7 +259,7 @@ College Station, Texas
 
 ### PCA with Latent Correlation
 
-Mingze Huang, Irina Gaynanova
+**Mingze Huang**, Irina Gaynanova
 
 College Station, Texas
 
