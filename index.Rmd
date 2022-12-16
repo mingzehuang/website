@@ -36,6 +36,8 @@ output:
 
 ---
 
+  - ![News](https://img.shields.io/badge/NEWS-12%2F16%2F2022-brightgreen) Congratulations to me! I offically received my PhD degree in Economics today! 🌈🌈🌈
+
   - ![News](https://img.shields.io/badge/NEWS-10%2F12%2F2022-brightgreen) Congratulations to me! I passed dissertation defense for my PhD degree in Economics today! 🌈🌈🌈
 
   - ![News](https://img.shields.io/badge/NEWS-09%2F10%2F2022-brightgreen) New version of R package: *mixedCCA(v1.6.2)* by Grace Yoon, Mingze Huang, Irina Gaynanova available on [*CRAN*](https://CRAN.R-project.org/package=mixedCCA) 🌈🌈🌈
