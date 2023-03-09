@@ -107,6 +107,14 @@ College Station, Texas
 
 - **ECEN360/STAT315: Special Topics: Computational Data Science**
 
+### Consultant (Data Scientist)
+
+Eonum Inc.
+
+Irvine, California
+
+2022
+
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -311,14 +319,6 @@ USA
 Institute of Electrical and Electronics Engineers
 
 USA
-
-2022 -
-
-### RSS
-
-Royal Statistical Society
-
-UK
 
 2022 -
 
