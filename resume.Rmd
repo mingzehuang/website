@@ -69,9 +69,7 @@ I'm doing Computational Statistics, Package Development for R and Python, Statis
 Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Teaching Economics
-
-Texas A&M University
+### Texas A&M University
 
 College Station, Texas
 
@@ -88,6 +86,7 @@ College Station, Texas
 - ECON203: Principle of Economics; 
 - ECON611: Foundation of Macroeconomic Theory;
 - ECMT461: Economic Data Analysis; 
+- **ECEN360/STAT315: Special Topics: Computational Data Science**
 :::
 
 - As **Instructor** for:
@@ -97,23 +96,16 @@ College Station, Texas
 - [ECON410: Macroeconomic Theory](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
 :::
 
-### Teaching Assistant for Data Science
-
-Texas A&M University
-
-College Station, Texas
-
-2022
-
-- **ECEN360/STAT315: Special Topics: Computational Data Science**
-
-### Consultant (Data Scientist)
-
-Eonum Inc.
+### Eonum Inc.
 
 Irvine, California
 
 2022
+
+::: concise
+- As **Consultant (Data Scientist)** for Quantum Computing
+- As **Consulting Manager (Data Scientist)** for Algorithmic Trading
+:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
