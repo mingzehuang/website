@@ -36,6 +36,8 @@ output:
 
 ---
 
+  - ![News](https://img.shields.io/badge/NEWS-12%2F17%2F2022-brightgreen) I start working as consultant (data scientist) for Eonum Inc. today! 🌈🌈🌈
+
   - ![News](https://img.shields.io/badge/NEWS-12%2F16%2F2022-brightgreen) Congratulations to me! I offically received my PhD degree in Economics today! 🌈🌈🌈
 
   - ![News](https://img.shields.io/badge/NEWS-10%2F12%2F2022-brightgreen) Congratulations to me! I passed dissertation defense for my PhD degree in Economics today! 🌈🌈🌈
@@ -50,9 +52,6 @@ output:
   
   - ![News](https://img.shields.io/badge/NEWS-09%2F21%2F2021-brightgreen) *latentcor: An R Package for estimating latent correlations from mixed data types* by Mingze Huang, Christian L. Müller, Irina Gaynanova published on [*Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03634) 🌈🌈🌈
   
-  - ![Media Coverage](https://img.shields.io/badge/MEDIA-08%2F20%2F2021-brightgreen) latentcor: An R Package for estimating latent correlations from mixed data types. by Mingze Huang, Christian L. Müller, Irina Gaynanova on [NEWSBREAK](https://www.newsbreak.com/news/2348863335897/latentcor-an-r-package-for-estimating-latent-correlations-from-mixed-data-types) 🌈🌈🌈
-
-
 ---
 
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)

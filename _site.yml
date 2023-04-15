@@ -1,6 +1,6 @@
 name: "Rico's Website"
 navbar:
-  title: "Mingze \"Rico\" Huang"
+  title: "Mingze \"Rico\" Huang, Ph.D."
   type: inverse
   left:
     - text: "Home"
