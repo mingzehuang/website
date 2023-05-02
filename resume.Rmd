@@ -69,7 +69,7 @@ I'm doing Computational Statistics, Package Development for R and Python, Statis
 Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Bohai Insurance Co. Ltd
+### Bohai Property Insurance Co. Ltd
 
 Tianjin, China
 
