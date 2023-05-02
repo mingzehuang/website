@@ -36,7 +36,7 @@ output:
 
 ---
 
-  - ![News](https://img.shields.io/badge/NEWS-12%2F16%2F2022-brightgreen) Congratulations to me! I offically received my PhD degree in Economics today! 🌈🌈🌈
+  - ![News](https://img.shields.io/badge/NEWS-12%2F16%2F2022-brightgreen) Congratulations to me! I officially received my PhD degree in Economics today! 🌈🌈🌈
 
   - ![News](https://img.shields.io/badge/NEWS-10%2F12%2F2022-brightgreen) Congratulations to me! I passed dissertation defense for my PhD degree in Economics today! 🌈🌈🌈
 
