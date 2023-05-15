@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Mingze Huang](images/me.jpg){width=80%}
+![Mingze Huang](images/headshot.jpg){width=90%}
 
 
 Contact Info {#contact}
@@ -111,9 +111,17 @@ Irvine, California
 2022
 
 ::: concise
-- As **Consultant (Data Scientist)** for Quantum Computing
-- As **Consulting Manager (Data Scientist)** for Algorithmic Trading
+- **Consultant (Data Scientist)**
+- **Consulting Manager (Data Scientist)**
 :::
+
+### Planck Capital
+
+Newport, CA
+
+2023
+
+- Quantum Trader
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
