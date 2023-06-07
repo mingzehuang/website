@@ -20,7 +20,7 @@ output:
 
 ---
 
-<p><img src="images/headshot.JPG" style = "width:15%; margin-right: 20px" align = "left"></p>
+<p><img src="images/me_3.jpg" style = "width:15%; margin-right: 20px" align = "left"></p>
 
 
 [![Twitter](https://img.shields.io/badge/twitter-%40mingze__rico-blue)](https://twitter.com/mingze_rico)
