@@ -106,19 +106,19 @@ College Station, Texas
 
 ### Eonum Inc. (Contract)
 
-Irvine, California
+Remote
 
 2022 - 2023
 
 - As **Consultant (Data Scientist)**: Stock market data analysis and event study using R and Python.
 
-### Ophelia Riego Health Fund, LLC. (Contract)
+### Freelance Statistician
 
-Carmichael, CA
+Remote
 
 2023
 
-- As **Statistician**: Build R and Python packages for automatic high-frequency trading analysis to significantly reduce the workload of analysts.
+- Help Ophelia Riego Health Fund, LLC. build R and Python packages for automatic high-frequency trading analysis to significantly reduce the workload of analysts.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
