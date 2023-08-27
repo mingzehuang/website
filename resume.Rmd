@@ -104,7 +104,7 @@ College Station, Texas
 - [ECON410: Macroeconomic Theory](https://mingzehuang.github.io/ECON410_Macroeconomic_Theory/)
 :::
 
-### Eonum Inc. (Contract)
+### Eonum Inc.
 
 Remote
 
@@ -112,13 +112,16 @@ Remote
 
 - As **Consultant (Data Scientist)**: Stock market data analysis and event study using R and Python.
 
-### Freelance Statistician
+### Statistician (Freelance)
 
 Remote
 
 2023
 
+::: concise
 - Help Ophelia Riego Health Fund, LLC. build R and Python packages for automatic high-frequency trading analysis to significantly reduce the workload of analysts.
+- Help a local credit union validate predictive models by checking model risks related to conceptual soundness, data integrity, statistical validity and outcome analysis.
+:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
